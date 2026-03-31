@@ -5,6 +5,6 @@ Hospitals Health Analytics, Metrics and Transformations
 Python, SQL, Power BI, Excel
 
 ## Files
-- .ipy
+- Clipboard_Health_Analytics..ipy
 - dashboard.pbix
 
