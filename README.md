@@ -1,2 +1,10 @@
 # Hospitals-Health-Analytics
 Hospitals Health Analytics, Metrics and Transformations
+
+## Tools Used
+Python, SQL, Power BI, Excel
+
+## Files
+- .ipy
+- dashboard.pbix
+
